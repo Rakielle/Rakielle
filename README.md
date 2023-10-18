@@ -15,7 +15,7 @@
 
 ## 🌱 Currently Learning
 
-- 💡 Exploring the world of <em>Web Accessibility</em>
+- 💡 <em>Web Accessibility</em>
 
 ## 🚀 Looking to Collaborate
 
